@@ -129,7 +129,7 @@ this.tweens.add({
 });
 
 ```
-This code is interesting, but I still don't quite understand how can the pixel point picture   ‘fly’。 
+This code is interesting, but I still don't quite understand how can the pixel point pictures  ‘fly’。 
 
 
 ### Reference
