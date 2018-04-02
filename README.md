@@ -1,10 +1,10 @@
-[Research Project Two Demo](http://www.06-90.com/projects/p3/index.html). 
+[Research Project Four Demo](http://www.06-90.com/projects/p4/index.html). 
 
 
 
-## Welcome to my Research Project Three
+## Welcome to my Research Project Four
 
-Here, I have to say that the game engine which I used is Phaser and its URL is [Phaser](http://phaser.io/). The link of my previous project is [Research Project Two](https://github.com/ChenLyu01/Research-Project-2).
+Here, I have to say that the game engine which I used is Phaser and its URL is [Phaser](http://phaser.io/). The link of my previous project is [Research Project Three](https://github.com/ChenLyu01/Research-Project-3).
 
 This is also a technical research for [Navigable Video](http://www.06-90.com/final/finalprojectChenLyu.html). In this project, I want to increase some effect of **Barrage** to the Navigable Video. 
 
