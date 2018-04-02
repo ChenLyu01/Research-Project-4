@@ -6,7 +6,7 @@
 
 Here, I have to say that the game engine which I used is Phaser and its URL is [Phaser](http://phaser.io/). The link of my previous project is [Research Project Three](https://github.com/ChenLyu01/Research-Project-3).
 
-This is also a technical research for [Navigable Video](http://www.06-90.com/final/finalprojectChenLyu.html). In this project, I want to increase some effect of **Barrage** to the Navigable Video. 
+This is also a technical research for [Navigable Video](http://www.06-90.com/final/finalprojectChenLyu.html). In this project, I want to increase some special effects to the Navigable Video. 
 
 ### Required technology
 
