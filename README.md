@@ -95,7 +95,7 @@ var dy = 244 + y * 3;
 The above codes meanning get random values in a certain interval.
 
 
-![Image text](https://github.com/ChenLyu01/Research-Project-4/blob/master/image/image1)
+![Image text](https://github.com/ChenLyu01/Research-Project-4/blob/master/image/image1.png)
 
 A lot of mosaic flew out
 
